@@ -7,3 +7,11 @@
 **Thoughts:** Need to get hands on know how webpack works, and better understand how servers work with bundles
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 1: January 6, 2018
+
+**Today's Progress**: Continue fullstack task, made first calculation and send to frontend
+
+**Thoughts:** Need to get hands on know how webpack works, rewrite webpack config
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
