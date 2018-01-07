@@ -15,3 +15,11 @@
 **Thoughts:** Need to get hands on know how webpack works, rewrite webpack config
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 2: January 7, 2018
+
+**Today's Progress**: Continue fullstack task, made second calculation and send to frontend. Webpack hot reloading config started
+
+**Thoughts:** Need to get hands on know how webpack works, rewrite webpack config, get some UI going
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
