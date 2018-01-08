@@ -23,3 +23,11 @@
 **Thoughts:** Need to get hands on know how webpack works, rewrite webpack config, get some UI going
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 3: January 8, 2018
+
+**Today's Progress**: Continue fullstack task, HMR fully working, added weight value to calculations
+
+**Thoughts:** Get some UI going (still), webpack hot reloading still like magic
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
