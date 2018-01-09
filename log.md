@@ -31,3 +31,11 @@
 **Thoughts:** Get some UI going (still), webpack hot reloading still like magic
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 4: January 9, 2018
+
+**Today's Progress**: Continue fullstack task, added table and simple JSON fetch with reviews
+
+**Thoughts:** Style is needed and refactor, not sure ReviewsTable component is in good shape
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
