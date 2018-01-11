@@ -32,10 +32,18 @@
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
 
-### Day 4: January 9, 2018
+### Day 4: January 10, 2018
 
 **Today's Progress**: Continue fullstack task, added table and simple JSON fetch with reviews
 
 **Thoughts:** Style is needed and refactor, not sure ReviewsTable component is in good shape
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 5: January 11, 2018
+
+**Today's Progress**: Continue fullstack task, refactored, added state on main component to hold average calculations
+
+**Thoughts:** Style is needed and refactor, create component for AspectsAverage average values
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
