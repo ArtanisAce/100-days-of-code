@@ -47,3 +47,11 @@
 **Thoughts:** Style is needed and refactor, create component for AspectsAverage average values
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 6: January 11, 2018
+
+**Today's Progress**: Continue fullstack task, finished functionality
+
+**Thoughts:** Always had problems iterating through objects, now I found a really good and clean way to do it in ES6 with Object.keys
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
