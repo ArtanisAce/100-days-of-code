@@ -48,10 +48,19 @@
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
 
-### Day 6: January 11, 2018
+### Day 6: January 12, 2018
 
 **Today's Progress**: Continue fullstack task, finished functionality
 
 **Thoughts:** Always had problems iterating through objects, now I found a really good and clean way to do it in ES6 with Object.keys
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+
+### Day 7: January 13, 2018
+
+**Today's Progress**: Continue fullstack task, added styles.css (as a reset sheet still), redo README
+
+**Thoughts:** Just a short session, before a trip!
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
