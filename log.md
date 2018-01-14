@@ -64,3 +64,11 @@
 **Thoughts:** Just a short session, before a trip!
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 8: January 14, 2018
+
+**Today's Progress**: Continue fullstack task, added more styles, prettify format of the files
+
+**Thoughts:** Just a short session, after a trip!
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
