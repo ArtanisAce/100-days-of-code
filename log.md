@@ -72,3 +72,11 @@
 **Thoughts:** Just a short session, after a trip!
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 9: January 15, 2018
+
+**Today's Progress**: Continue fullstack task, added spinner wave and filter by traveledWith. Refactored main component
+
+**Thoughts:** Controlled vs uncontrolled components in radio buttons, which is better for which situation?
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
