@@ -80,3 +80,11 @@
 **Thoughts:** Controlled vs uncontrolled components in radio buttons, which is better for which situation?
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 10: January 16, 2018
+
+**Today's Progress**: Continue fullstack task, convert date to D/M/Y format
+
+**Thoughts:** Need to get a good way to sort through that format, giving that is gonna be a string
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
