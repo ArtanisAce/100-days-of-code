@@ -88,3 +88,11 @@
 **Thoughts:** Need to get a good way to sort through that format, giving that is gonna be a string
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 11: January 17, 2018
+
+**Today's Progress**: Continue fullstack task, sort by review date order functional
+
+**Thoughts:** Need to add svgs with arrows to sort instead of buttons, and refactor to a more immutable approach
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
