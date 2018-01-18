@@ -96,3 +96,11 @@
 **Thoughts:** Need to add svgs with arrows to sort instead of buttons, and refactor to a more immutable approach
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 12: January 18, 2018
+
+**Today's Progress**: Continue fullstack task, sort by travel date order functional. Full functional, except for optional pagination
+
+**Thoughts:** Some CSS is still needed as everything is really simple. Pagination might not really be needed as list is not so big
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
