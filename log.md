@@ -112,3 +112,11 @@
 **Thoughts:** There's a discussion about using SVG on img tags, inline or object. Seems like adding as inline can give more flexibility, mostly for controlling CSS
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 14: January 19, 2018
+
+**Today's Progress**: Continue fullstack task, added more css and flex display for some components
+
+**Thoughts:** Need to work more on Flexbox display, is not exclusive for responsive design; is also a great layout distributor. Rethink flexbox on calculations box
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
