@@ -104,3 +104,11 @@
 **Thoughts:** Some CSS is still needed as everything is really simple. Pagination might not really be needed as list is not so big
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 13: January 19, 2018
+
+**Today's Progress**: Continue fullstack task, added component to render svgs which control sort order on review date and travel date
+
+**Thoughts:** There's a discussion about using SVG on img tags, inline or object. Seems like adding as inline can give more flexibility, mostly for controlling CSS
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
