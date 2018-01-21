@@ -128,3 +128,11 @@
 **Thoughts:** Prolly no need flexbox for calculation box, but wanted to practice little bit more with it
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 16: January 21, 2018
+
+**Today's Progress**: Continue fullstack task, refactored components, added scroll to bottom when calculations appear
+
+**Thoughts:** Is a decent app with not much boilerplate, probably more refactor could be done. Adding a preprocessor like SASS could help
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
