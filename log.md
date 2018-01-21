@@ -120,3 +120,11 @@
 **Thoughts:** Need to work more on Flexbox display, is not exclusive for responsive design; is also a great layout distributor. Rethink flexbox on calculations box
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 15: January 21, 2018
+
+**Today's Progress**: Continue fullstack task, added animations for text appearing and more flex props
+
+**Thoughts:** Prolly no need flexbox for calculation box, but wanted to practice little bit more with it
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
