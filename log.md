@@ -136,3 +136,11 @@
 **Thoughts:** Is a decent app with not much boilerplate, probably more refactor could be done. Adding a preprocessor like SASS could help
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/reviews-app)
+
+### Day 17: January 23, 2018
+
+**Today's Progress**: Retaking frontend app 'movie-list'. Refactored and added some style to navigation, inspired on CSS course nav bar video
+
+**Thoughts:** Functionality is broken suddenly. Need to work more on css, add flexbox and css grid to practice and learn
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/movie-lists)
