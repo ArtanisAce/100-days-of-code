@@ -144,3 +144,11 @@
 **Thoughts:** Functionality is broken suddenly. Need to work more on css, add flexbox and css grid to practice and learn
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/movie-lists)
+
+### Day 18: January 24, 2018
+
+**Today's Progress**: Retaking frontend app 'movie-list'. Fixed problem with navigation, needed another withRouter on the main routing component, added some style to navbar
+
+**Thoughts:** Strange how I needed another withRouter suddenly... Read article about navigation bar with flexbox and adapt it to our
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/movie-lists)
