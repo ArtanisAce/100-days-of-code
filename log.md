@@ -160,3 +160,11 @@
 **Thoughts:** Nav bar is taking too much time, need to find a good source for a flexbox nav or keep it simpler
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/movie-lists)
+
+### Day 20: January 25, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Really small changes, most of the time has been investigating about architectural design
+
+**Thoughts:** Decided to drop firebase idea and create a backend with a mongo db to save films, using then MERN stack. Graphql is not needed for now, could be reimplemented in the future
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/movie-lists)
