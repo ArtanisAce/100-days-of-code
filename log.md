@@ -147,8 +147,16 @@
 
 ### Day 18: January 24, 2018
 
-**Today's Progress**: Retaking frontend app 'movie-list'. Fixed problem with navigation, needed another withRouter on the main routing component, added some style to navbar
+**Today's Progress**: Continued frontend app 'movie-list'. Fixed problem with navigation, needed another withRouter on the main routing component, added some style to navbar
 
 **Thoughts:** Strange how I needed another withRouter suddenly... Read article about navigation bar with flexbox and adapt it to our
+
+**Link to work:** [Reviews App](https://github.com/ArtanisAce/movie-lists)
+
+### Day 19: January 25, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Added more style on navbar
+
+**Thoughts:** Nav bar is taking too much time, need to find a good source for a flexbox nav or keep it simpler
 
 **Link to work:** [Reviews App](https://github.com/ArtanisAce/movie-lists)
