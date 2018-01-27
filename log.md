@@ -143,7 +143,7 @@
 
 **Thoughts:** Functionality is broken suddenly. Need to work more on css, add flexbox and css grid to practice and learn
 
-**Link to work:** [Reviews App](https://github.com/ArtanisAce/movie-lists)
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists)
 
 ### Day 18: January 24, 2018
 
@@ -151,7 +151,7 @@
 
 **Thoughts:** Strange how I needed another withRouter suddenly... Read article about navigation bar with flexbox and adapt it to our
 
-**Link to work:** [Reviews App](https://github.com/ArtanisAce/movie-lists)
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists)
 
 ### Day 19: January 25, 2018
 
@@ -159,12 +159,21 @@
 
 **Thoughts:** Nav bar is taking too much time, need to find a good source for a flexbox nav or keep it simpler
 
-**Link to work:** [Reviews App](https://github.com/ArtanisAce/movie-lists)
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists)
 
-### Day 20: January 25, 2018
+### Day 20: January 26, 2018
 
 **Today's Progress**: Continued frontend app 'movie-list'. Really small changes, most of the time has been investigating about architectural design
 
 **Thoughts:** Decided to drop firebase idea and create a backend with a mongo db to save films, using then MERN stack. Graphql is not needed for now, could be reimplemented in the future
 
-**Link to work:** [Reviews App](https://github.com/ArtanisAce/movie-lists)
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists)
+
+
+### Day 21: January 27, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Created express backend, bit of configuration, still test to be done
+
+**Thoughts:** Small session after night out lol
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
