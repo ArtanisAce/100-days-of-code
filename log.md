@@ -177,3 +177,11 @@
 **Thoughts:** Small session after night out lol
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 22: January 27, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Tested backend, added flexbox to movie box, slight refactor
+
+**Thoughts:** Need to use styled components specific characteristics to make a better use of it! I.e eliminate the button once is clicked
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
