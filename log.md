@@ -186,10 +186,18 @@
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
 
-### Day 23: January 27, 2018
+### Day 23: January 28, 2018
 
 **Today's Progress**: Continued frontend app 'movie-list'. Add movie buttons disappear on click, added animations
 
 **Thoughts:** Still more work needed on the movie box. Add sinopsis of the movie, and the image should transite smoothly to the right side
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 24: January 30, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Added plot on movie lists, read styled-components doc
+
+**Thoughts:** Learned more about s-c, small session after long day. App needs a good refactor and better css applied
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
