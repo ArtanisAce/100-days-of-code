@@ -211,3 +211,11 @@ to movie-list, and kept watching 'Mastering CSS' course, while writting down som
 much to do 
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 26: February 1, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Small session, eliminating styles.css and adding injectGlobal from SC
+
+**Thoughts:** Will continue watching the video course on CSS till is ended, and need to build the nav bar with CSS correctly (look on article)
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
