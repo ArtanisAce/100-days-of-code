@@ -201,3 +201,13 @@
 **Thoughts:** Learned more about s-c, small session after long day. App needs a good refactor and better css applied
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 25: January 31, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Fixed indentation problem on github (converted everything to 2 spaces instead of 2 tabs). Also did that on reviews-app. Added some CSS
+to movie-list, and kept watching 'Mastering CSS' course, while writting down some important CSS tips.
+
+**Thoughts:** Will continue watching the video till is ended, and will combine courses/articles and coding on the same session. On weekends will extend the coding sessions, or days that I don't have
+much to do 
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
