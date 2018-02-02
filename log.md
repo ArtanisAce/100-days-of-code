@@ -219,3 +219,11 @@ much to do
 **Thoughts:** Will continue watching the video course on CSS till is ended, and need to build the nav bar with CSS correctly (look on article)
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 27: February 2, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Refactored some css code, added movies svg, continued working on nav bar
+
+**Thoughts:** Image near title will change on navigation. Nav bar still need some work, mostly for responsiveness. Wonder if making it with flexbox is just over engineering
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
