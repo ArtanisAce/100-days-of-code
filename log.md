@@ -227,3 +227,11 @@ much to do
 **Thoughts:** Image near title will change on navigation. Nav bar still need some work, mostly for responsiveness. Wonder if making it with flexbox is just over engineering
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 28: February 3, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Added some css code, fixed issue with svg
+
+**Thoughts:** After getting the CSS more or less in place (and finishing the curse), gonna work on Redux, usign last fancy stuff
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
