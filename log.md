@@ -235,3 +235,11 @@ much to do
 **Thoughts:** After getting the CSS more or less in place (and finishing the curse), gonna work on Redux, usign last fancy stuff
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 29: February 4, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Added react-responsive and code for handling media queries in s-c
+
+**Thoughts:** Need to keep working on CSS and make a more or less responsive UI for what I've constructed now
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
