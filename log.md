@@ -243,3 +243,11 @@ much to do
 **Thoughts:** Need to keep working on CSS and make a more or less responsive UI for what I've constructed now
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 30: February 5, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Extracted MovieBox into a component, need to try and refactor
+
+**Thoughts:** Styled components should be the last step of a component, like container -> structural -> presentational (styled). Dont wrap structural components in a styled component
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
