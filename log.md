@@ -251,3 +251,11 @@ much to do
 **Thoughts:** Styled components should be the last step of a component, like container -> structural -> presentational (styled). Dont wrap structural components in a styled component
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 31: February 6, 2018
+
+**Today's Progress**: Searching for articles, learning on ES6 Proxy. Made some practice on the console
+
+**Thoughts:** Proxy is a really useful tool for 'validation' on objects. Can see if I can use it in movie-lists to learn it better
+
+**Link to work:** --
