@@ -259,3 +259,11 @@ much to do
 **Thoughts:** Proxy is a really useful tool for 'validation' on objects. Can see if I can use it in movie-lists to learn it better
 
 **Link to work:** --
+
+### Day 32: February 7, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Extracted MovieBox into a component, rendered through MovieList component (also presentational, refactored MovieList -> UserList)
+
+**Thoughts:** This structure looks much better. Fix bug with the add movie button
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
