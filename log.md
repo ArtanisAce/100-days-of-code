@@ -267,3 +267,11 @@ much to do
 **Thoughts:** This structure looks much better. Fix bug with the add movie button
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 33: February 8, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Fixed bug with add movie button on MovieBox
+
+**Thoughts:** This structure looks much better, but... I think moving MovieBox to MovieList is a good idea, having a 'final' presentational component, and not two of them.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
