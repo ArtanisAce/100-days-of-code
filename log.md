@@ -283,3 +283,11 @@ much to do
 **Thoughts:** Structure is now cleaner and better
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 35: February 10, 2018
+
+**Today's Progress**: Continued CSS course and frontend app 'movie-list'. Added webfonts, downloaded ones and google font ones
+
+**Thoughts:** Couldnt make to inject the local fonts through S-C globalInject. Need to look into that again. Will continue with CSS and styled-components playing. After that, Redux, and then backend.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
