@@ -291,3 +291,11 @@ much to do
 **Thoughts:** Couldnt make to inject the local fonts through S-C globalInject. Need to look into that again. Will continue with CSS and styled-components playing. After that, Redux, and then backend.
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 36: February 11, 2018
+
+**Today's Progress**: Continued frontend app 'movie-list'. Added more style for movie box.
+
+**Thoughts:** Seems like breaking text in a box is not yet fully supported in CSS. JS is the most vible option
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
