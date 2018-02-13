@@ -299,3 +299,12 @@ much to do
 **Thoughts:** Seems like breaking text in a box is not yet fully supported in CSS. JS is the most vible option
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 37: February 13, 2018
+
+**Today's Progress**: Finished CSS course. Continued frontend app 'movie-list'. Fixed injectGlobal issue, added width: 100% to img tags.
+
+**Thoughts:** We will convert the SVGs from being loaded through images to inline SVG, as it's much more flexible and we can reduce the http requests. Consider using a sprite in the future when
+the number of svgs gets bigger
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
