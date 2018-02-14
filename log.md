@@ -316,3 +316,11 @@ the number of svgs gets bigger
 **Thoughts:** Wonder how react-svg will work with S-C, hope className will work good. Will have to pass it as a prop on the s-c wrapper
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 39: February 14, 2018
+
+**Today's Progress**: Tiny session, fixed eliminated code by mistake in imdb-log svg file
+
+**Thoughts:** Tomorrow 2 hours ;)
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
