@@ -308,3 +308,11 @@ much to do
 the number of svgs gets bigger
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 38: February 13, 2018
+
+**Today's Progress**: Tiny session, fixed a wrong css rule on img holding the svg (width to max-widht), added react-svg to handle injection of svg inline.
+
+**Thoughts:** Wonder how react-svg will work with S-C, hope className will work good. Will have to pass it as a prop on the s-c wrapper
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
