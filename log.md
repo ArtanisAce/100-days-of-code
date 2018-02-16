@@ -324,3 +324,12 @@ the number of svgs gets bigger
 **Thoughts:** Tomorrow 2 hours ;)
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+
+### Day 40: February 16, 2018
+
+**Today's Progress**: Refactor css, sanitized css, added style to searchbar
+
+**Thoughts:** Need more work on having the browser agent stylesheet reset; I had to use a selector with more points to override the default font
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
