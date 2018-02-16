@@ -333,3 +333,11 @@ the number of svgs gets bigger
 **Thoughts:** Need more work on having the browser agent stylesheet reset; I had to use a selector with more points to override the default font
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 40: February 17, 2018
+
+**Today's Progress**: Refactor css, added C-S ThemeProvider to emulate CSS variables (now passed as colors to components). Refactored css
+
+**Thoughts:** Think on some cool effect to add to button when hovering, like 'Add movie!' text appearing above. Accesibility should be done also!
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
