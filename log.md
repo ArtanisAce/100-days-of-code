@@ -341,3 +341,13 @@ the number of svgs gets bigger
 **Thoughts:** Think on some cool effect to add to button when hovering, like 'Add movie!' text appearing above. Accesibility should be done also!
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+
+### Day 41: February 17, 2018
+
+**Today's Progress**: AddMovieButton now transforms into text. Slight refactor, mostly searching about ways to animate on React components conditional rendering
+
+**Thoughts:** Next session will implement ReactTransitionGroup to the addMovieButton, to handle animation when is replaced by text. Follow medium bookmarked article, install also gsap.
+We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're trying to not use vanilla CSS in classic way in any kind.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
