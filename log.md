@@ -351,3 +351,11 @@ the number of svgs gets bigger
 We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're trying to not use vanilla CSS in classic way in any kind.
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 42: February 18, 2018
+
+**Today's Progress**: No project work today, reading and selecting articles.
+
+**Thoughts:** I have too big hangover man xD
+
+**Link to work:** -
