@@ -359,3 +359,11 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 **Thoughts:** I have too big hangover man xD
 
 **Link to work:** -
+
+### Day 43: February 20, 2018
+
+**Today's Progress**: Updated react, styled-components and react-script
+
+**Thoughts:** Seems like new feature from React, Fragment, is not yet available on create-react-app.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
