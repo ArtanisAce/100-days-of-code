@@ -367,3 +367,11 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 **Thoughts:** Seems like new feature from React, Fragment, is not yet available on create-react-app.
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 44: February 21, 2018
+
+**Today's Progress**: Added React Transitions custom component for the add movie button. Created a simple fade out
+
+**Thoughts:** Need more work on the transition, adding also the conditional rendering with the 'Added!' text. Look on the stackoverflow bookmarked question.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
