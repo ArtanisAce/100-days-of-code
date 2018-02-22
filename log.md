@@ -375,3 +375,11 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 **Thoughts:** Need more work on the transition, adding also the conditional rendering with the 'Added!' text. Look on the stackoverflow bookmarked question.
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 45: February 22, 2018
+
+**Today's Progress**: Watched couple of videos on 'Idiomatic Redux' series by Dan Abramov.
+
+**Thoughts:** Will refactor some parts of the code as I watch these videos and continue with the application
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
