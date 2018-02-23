@@ -383,3 +383,11 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 **Thoughts:** Will refactor some parts of the code as I watch these videos and continue with the application
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 46: February 23, 2018
+
+**Today's Progress**: Worked on the add button transition, added transition when button is clicked and text appear.
+
+**Thoughts:** Im spending too much time with this, maybe there's a simpler way of solving it. Investigate more, solving it with React Transitions seems over complicated for such a thing
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
