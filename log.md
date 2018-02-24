@@ -391,3 +391,11 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 **Thoughts:** Im spending too much time with this, maybe there's a simpler way of solving it. Investigate more, solving it with React Transitions seems over complicated for such a thing
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 47: February 24, 2018
+
+**Today's Progress**: Watched video on 'Idiomatic Redux' by Dan Abramov.
+
+**Thoughts:** Might be useful to save state in localStorage to have a faster development time when testing the code in the UI
+
+**Link to work:** -
