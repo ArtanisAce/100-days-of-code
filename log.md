@@ -399,3 +399,11 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 **Thoughts:** Might be useful to save state in localStorage to have a faster development time when testing the code in the UI
 
 **Link to work:** -
+
+### Day 48: February 24, 2018
+
+**Today's Progress**: Watched video on 'Idiomatic Redux' by Dan Abramov (localStorage rehyration). Added this to the app, added throttle (lodash) and styled the addtext button
+
+**Thoughts:** Will keep working on the redux part of the project while watching videos. Need to have some filter on movie list or on searchResult to not add again movies you already did
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
