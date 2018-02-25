@@ -407,3 +407,11 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 **Thoughts:** Will keep working on the redux part of the project while watching videos. Need to have some filter on movie list or on searchResult to not add again movies you already did
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 49: February 24, 2018
+
+**Today's Progress**: Spent time reviewing newsletters. Watched CSS Grid video, read about new React Context API, and promise.finally()
+
+**Thoughts:** Sundays will be spent this way from now on. Might code just a little
+
+**Link to work:** -
