@@ -408,10 +408,18 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
 
-### Day 49: February 24, 2018
+### Day 49: February 25, 2018
 
 **Today's Progress**: Spent time reviewing newsletters. Watched CSS Grid video, read about new React Context API, and promise.finally()
 
 **Thoughts:** Sundays will be spent this way from now on. Might code just a little
 
 **Link to work:** -
+
+### Day 50: February 27, 2018
+
+**Today's Progress**: Watched videos on 'Idiomatic Redux' by Dan Abramov, made a general refactor of code (mostly styling)
+
+**Thoughts:** Probably in the future will have to revisit videos to implement selectors (or use the state-of-the-art module for that)
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
