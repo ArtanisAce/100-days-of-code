@@ -423,3 +423,12 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 **Thoughts:** Probably in the future will have to revisit videos to implement selectors (or use the state-of-the-art module for that)
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+
+### Day 51: March 1, 2018
+
+**Today's Progress**: Keep watching videos on 'Idiomatic Redux' by Dan Abramov, made a general refactor on binding action creators to the components (could eliminate bindActionCreators)
+
+**Thoughts:** Im spending too much time on refactoring and looking over redux, not many code changes last days... need to finish series and move forward!
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
