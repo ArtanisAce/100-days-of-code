@@ -424,11 +424,18 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
 
-
 ### Day 51: March 1, 2018
 
 **Today's Progress**: Keep watching videos on 'Idiomatic Redux' by Dan Abramov, made a general refactor on binding action creators to the components (could eliminate bindActionCreators)
 
 **Thoughts:** Im spending too much time on refactoring and looking over redux, not many code changes last days... need to finish series and move forward!
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 52: March 2, 2018
+
+**Today's Progress**: Keep watching videos on 'Idiomatic Redux' by Dan Abramov, went through an accesibility checklist and added aria landmarks and title on SVGs
+
+**Thoughts:** Keep working on accesibility and have in mind always when building apps! Also, should go through some security checklist (maybe after backend is ended).
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
