@@ -439,3 +439,11 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 **Thoughts:** Keep working on accesibility and have in mind always when building apps! Also, should go through some security checklist (maybe after backend is ended).
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 53: March 3, 2018
+
+**Today's Progress**: Keep watching videos on 'Idiomatic Redux' by Dan Abramov, went through an accesibility checklist and checked color contrast. Added Formik
+
+**Thoughts:** Friday nights are always impossible xD Tomorrow more and better with Formik (which sounds like a spray to kill ants or sthing)
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
