@@ -447,3 +447,11 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 **Thoughts:** Friday nights are always impossible xD Tomorrow more and better with Formik (which sounds like a spray to kill ants or sthing)
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 54: March 4, 2018
+
+**Today's Progress**: Added basic form with Formik, full functional for now but not connected to redux.
+
+**Thoughts:** I won't ever touch redux-form again, even with a stick. Formik looks great! Needs to be connected still to react-redux.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
