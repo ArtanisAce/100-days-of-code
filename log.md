@@ -455,3 +455,11 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 **Thoughts:** I won't ever touch redux-form again, even with a stick. Formik looks great! Needs to be connected still to react-redux.
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 55: March 5, 2018
+
+**Today's Progress**: Look on articles (read one about color contrast and fonts accesibility). Prepared bundle for monday
+
+**Thoughts:** Sunday should keep like this! :)
+
+**Link to work:** -
