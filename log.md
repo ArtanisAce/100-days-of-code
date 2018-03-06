@@ -475,3 +475,14 @@ and pass only pure state that will get rendered to the components (instead of pa
 **Link to work:** -
 
 **Link to work:** -
+
+### Day 57: March 6, 2018
+
+**Today's Progress**: Kept watching 'Idiomatic Redux', read a bit about selectors
+
+**Thoughts:** Another blank day, im going to warsaw! :D
+
+
+**Link to work:** -
+
+**Link to work:** -
