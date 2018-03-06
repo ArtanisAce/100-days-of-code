@@ -463,3 +463,15 @@ We'll prefer ReactTransitionGroup over ReactCSSTransitiongroup due that we're tr
 **Thoughts:** Sunday should keep like this! :)
 
 **Link to work:** -
+
+### Day 56: March 6, 2018
+
+**Today's Progress**: Kept watching 'Idiomatic Redux'
+
+**Thoughts:** Thought about changing state structure on the app; maybe we could have selectors for every part of the movie state? Then we could do all the operations on them,
+
+and pass only pure state that will get rendered to the components (instead of passing the whole raw object to state and then inject it).
+
+**Link to work:** -
+
+**Link to work:** -
