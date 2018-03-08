@@ -486,3 +486,11 @@ and pass only pure state that will get rendered to the components (instead of pa
 **Link to work:** -
 
 **Link to work:** -
+
+### Day 58: March 8, 2018
+
+**Today's Progress**: Refactored app, added unknown poster svg, added redux state selectors 
+
+**Thoughts:** Fix bug with unknown poster and date! Maybe add reselect in the future?
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
