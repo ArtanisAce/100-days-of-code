@@ -494,3 +494,11 @@ and pass only pure state that will get rendered to the components (instead of pa
 **Thoughts:** Fix bug with unknown poster and date! Maybe add reselect in the future?
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 59: March 9, 2018
+
+**Today's Progress**: Refactored selectors code, fixed bug with state on user film
+
+**Thoughts:** Need to finish redux course!
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
