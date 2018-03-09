@@ -502,3 +502,11 @@ and pass only pure state that will get rendered to the components (instead of pa
 **Thoughts:** Need to finish redux course!
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 60: March 9, 2018
+
+**Today's Progress**: Refactored code, mostly related to error handling. Watched video on redux handling failures on fetching from 'Idiomatic Redux'.
+
+**Thoughts:** Will have to watch again, is not working as expected.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
