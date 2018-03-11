@@ -510,3 +510,11 @@ and pass only pure state that will get rendered to the components (instead of pa
 **Thoughts:** Will have to watch again, is not working as expected.
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 61: March 11, 2018
+
+**Today's Progress**: Refactored code, handled error state correctly, but still needs to be cleared when the corresponding action is finally resolved succesfully.
+
+**Thoughts:** Need to separate error state in 2 probably (for fetching movie search results, and config - for now), and add SUCCESS action types. Need to add the isFetching state yet.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
