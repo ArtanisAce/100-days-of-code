@@ -482,9 +482,6 @@ and pass only pure state that will get rendered to the components (instead of pa
 
 **Thoughts:** Another blank day, im going to warsaw! :D
 
-
-**Link to work:** -
-
 **Link to work:** -
 
 ### Day 58: March 8, 2018
@@ -526,3 +523,11 @@ and pass only pure state that will get rendered to the components (instead of pa
 **Thoughts:** Sundays!
 
 **Link to work:** -
+
+### Day 63: March 13, 2018
+
+**Today's Progress**: General refactor on code, added isFetching on state
+
+**Thoughts:** Still need to separate error state in 2 probably (for fetching movie search results, and config - for now)
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
