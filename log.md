@@ -539,3 +539,11 @@ and pass only pure state that will get rendered to the components (instead of pa
 **Thoughts:** There's a lint error on SearchResult - fix and continue. Finish Dan's videos and move to the backend! Too much time already on this app ;/
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 65: March 15, 2018
+
+**Today's Progress**: Fixed problem with combine error reducers, handling correctly the render of error message, added styled error message component
+
+**Thoughts:** 2 more videos to finish Dan's, and lets go to backend!
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
