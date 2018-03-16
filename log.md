@@ -547,3 +547,11 @@ and pass only pure state that will get rendered to the components (instead of pa
 **Thoughts:** 2 more videos to finish Dan's, and lets go to backend!
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 66: March 15, 2018
+
+**Today's Progress**: Logo on navigation bar switches with location. Finished 'Idiomatic Redux' videos
+
+**Thoughts:** Moving to backend finally. Still create user form need to be worked on; will be done while building the backend
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
