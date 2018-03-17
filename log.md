@@ -555,3 +555,12 @@ and pass only pure state that will get rendered to the components (instead of pa
 **Thoughts:** Moving to backend finally. Still create user form need to be worked on; will be done while building the backend
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+
+### Day 67: March 17, 2018
+
+**Today's Progress**: Added style to user form
+
+**Thoughts:** Moving to backend finally... tomorrow! :D
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
