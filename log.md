@@ -564,3 +564,11 @@ and pass only pure state that will get rendered to the components (instead of pa
 **Thoughts:** Moving to backend finally... tomorrow! :D
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+### Day 68: March 18, 2018
+
+**Today's Progress**: Added nodemon and helmet to node app, read a bit around, searched for a good tutorial to build an API with Mongoose
+
+**Thoughts:** Kind of distracted today, no more facebook opening in the middle of the session!
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
