@@ -572,3 +572,13 @@ and pass only pure state that will get rendered to the components (instead of pa
 **Thoughts:** Kind of distracted today, no more facebook opening in the middle of the session!
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/movie-lists-backend)
+
+
+### Day 69: March 19, 2018
+
+**Today's Progress**: Went through articles and last fun fun function video
+
+**Thoughts:** react-router and react-transition-group can create really smooth and nice effects for web apps. Context might just kick out Redux in most cases, and graphQL is really awesome
+when you have some control over the backend. Houdini... seems really powerful!
+
+**Link to work:** -
