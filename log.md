@@ -582,3 +582,11 @@ and pass only pure state that will get rendered to the components (instead of pa
 when you have some control over the backend. Houdini... seems really powerful!
 
 **Link to work:** -
+
+### Day 70: March 20, 2018
+
+**Today's Progress**: Tried to set up different boilerplates. At the end, came back to the exact same point of day 68...
+
+**Thoughts:** Let's start with a simple boilerplate app, and add things when is needed; that's better aswell to learn how things work and why work that way. Probably will just need passport and mongoose.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
