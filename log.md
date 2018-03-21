@@ -590,3 +590,12 @@ when you have some control over the backend. Houdini... seems really powerful!
 **Thoughts:** Let's start with a simple boilerplate app, and add things when is needed; that's better aswell to learn how things work and why work that way. Probably will just need passport and mongoose.
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 71: March 21, 2018
+
+**Today's Progress**: Refactor, added cors, eliminated innecesary files and code (removed view engine, i.e)
+
+**Thoughts:** So much time wasted on boilerplates and searching for the right setup... finally I think I have it. Tomorrow, move tmdb API requests logic into backend, axios to fetch maybe? To frontend
+and backend
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
