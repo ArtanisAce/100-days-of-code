@@ -599,3 +599,11 @@ when you have some control over the backend. Houdini... seems really powerful!
 and backend
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 72: March 22, 2018
+
+**Today's Progress**: Added axios (both frontend and backend), started refactor of tmdb requests (moving them to backend endpoints)
+
+**Thoughts:** Will have to review about this param, probably syntax in APIUtils.js (movie-lists) is not correct when passing it.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
