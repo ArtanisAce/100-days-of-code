@@ -607,3 +607,11 @@ and backend
 **Thoughts:** Will have to review about this param, probably syntax in APIUtils.js (movie-lists) is not correct when passing it.
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 73: March 22, 2018
+
+**Today's Progress**: Refactored tmdb requests, now fully working with backend API as proxy. Added loading indicator on SearchResults, still not spinning
+
+**Thoughts:** Loading Indicator should spin! 
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
