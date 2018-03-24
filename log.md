@@ -608,10 +608,18 @@ and backend
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
 
-### Day 73: March 22, 2018
+### Day 73: March 23, 2018
 
 **Today's Progress**: Refactored tmdb requests, now fully working with backend API as proxy. Added loading indicator on SearchResults, still not spinning
 
 **Thoughts:** Loading Indicator should spin! 
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 74: March 24, 2018
+
+**Today's Progress**: First attempt to handle errors, need to get more info on how to do it properly. Loading indicator now spins
+
+**Thoughts:** Read article about handling error in express with async/await
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
