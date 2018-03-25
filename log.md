@@ -631,3 +631,12 @@ and backend
 **Thoughts:** Good read online about handling errors in backend and frontend, things more clear now. Need to change the way we save data in user list to show full movie details (right now we save a small part of data).
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 76: March 25, 2018
+
+**Today's Progress**: Connected the MovieWrapper component to the state, after creating the reducer and the action creator (which accesses the store state to get the full movie details)
+
+**Thoughts:** Nice to know more info about thunk and issues it might take with some approaches, and specifically for the problem I tried to solve. I decided to take the approach though, don't
+think can create further problems for the application I'm trying to complete.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
