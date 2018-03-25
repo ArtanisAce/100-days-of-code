@@ -623,3 +623,11 @@ and backend
 **Thoughts:** Read article about handling error in express with async/await
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 75: March 25, 2018
+
+**Today's Progress**: Handle errors correctly now in both frontend / backend. Loading indicator spins indefinitely now. Started working on Movie component
+
+**Thoughts:** Good read online about handling errors in backend and frontend, things more clear now. Need to change the way we save data in user list to show full movie details (right now we save a small part of data).
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
