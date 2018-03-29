@@ -640,3 +640,12 @@ and backend
 think can create further problems for the application I'm trying to complete.
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+
+### Day 77: March 29, 2018
+
+**Today's Progress**: Created Movie component, defined state object that will be passed (through the selector). Refactor server on backend using a tmdb request help function.
+
+**Thoughts:** There's a bug with the show film component, fix tomorrow
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
