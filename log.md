@@ -657,3 +657,11 @@ think can create further problems for the application I'm trying to complete.
 **Thoughts:** Need to be able to return empty objects / arrays on selectors aswell, I had same problem twice...
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 79: March 30, 2018
+
+**Today's Progress**: Applied a basic CSS Grid to the Movie component; rewatched a bit of 'CSS Grid: the Big Picture' video.
+
+**Thoughts:** CSS Grid seems so powerful, need to practice more with it and unveil what things can it do
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
