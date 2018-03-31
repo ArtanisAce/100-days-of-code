@@ -665,3 +665,13 @@ think can create further problems for the application I'm trying to complete.
 **Thoughts:** CSS Grid seems so powerful, need to practice more with it and unveil what things can it do
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+
+### Day 80: March 31, 2018
+
+**Today's Progress**: Applied a basic CSS Grid to the Movie component, now looking much better. Finished rewatching a bit of 'CSS Grid: the Big Picture' video. Watched
+another video by Jen Simmons about Grid, took a deeper look into css-tricks grid cheatsheet and read more info online on the matter.
+
+**Thoughts:** CSS Grid seems so powerful, want to take another day and try to apply through areas maybe, using fr as size unit.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
