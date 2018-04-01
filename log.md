@@ -675,3 +675,11 @@ another video by Jen Simmons about Grid, took a deeper look into css-tricks grid
 **Thoughts:** CSS Grid seems so powerful, want to take another day and try to apply through areas maybe, using fr as size unit.
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 81: March 31, 2018
+
+**Today's Progress**: Watched a short video on flexbox vs grid by Jen Simmons.
+
+**Thoughts:** My neck is killing me :(
+
+**Link to work:** -
