@@ -683,3 +683,12 @@ another video by Jen Simmons about Grid, took a deeper look into css-tricks grid
 **Thoughts:** My neck is killing me :(
 
 **Link to work:** -
+
+### Day 82: April 2, 2018
+
+**Today's Progress**: Added find polyfill, messed around with -ms-grid implementation but doesn't really work out, so added the feature queries and will
+create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simmons videos, learned about viewport units
+
+**Thoughts:** Need to layout the Movie page with floats probably. Maybe experiment with viewport units somewhere in the app.
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
