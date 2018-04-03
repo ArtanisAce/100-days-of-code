@@ -692,3 +692,11 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Thoughts:** Need to layout the Movie page with floats probably. Maybe experiment with viewport units somewhere in the app.
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 83: April 3, 2018
+
+**Today's Progress**: Fixed style bugs in IE with flexbox and css Grid. Now should look the same on the 3 browsers (Chrome, FF, IE)
+
+**Thoughts:** The Grid layout on Movie needs to be refactored and centered, doesn't look so good 
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
