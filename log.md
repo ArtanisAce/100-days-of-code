@@ -700,3 +700,11 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Thoughts:** The Grid layout on Movie needs to be refactored and centered, doesn't look so good 
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 83: April 5, 2018
+
+**Today's Progress**: Make a quick change on grid layout for Movie component, centering the elements.
+
+**Thoughts:** Looks better, still the page is very poor with spaces and lack of content. Was just an exercise for grid, so is enough
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
