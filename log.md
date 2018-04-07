@@ -708,3 +708,11 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Thoughts:** Looks better, still the page is very poor with spaces and lack of content. Was just an exercise for grid, so is enough
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 84: April 7, 2018
+
+**Today's Progress**: Going to start a new project, basically a style clean up on a website. Downloaded code and went through it a bit
+
+**Thoughts:** 'Hulio, no he tocao jquery en mi vida'
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
