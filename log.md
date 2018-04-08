@@ -716,3 +716,11 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Thoughts:** 'Hulio, no he tocao jquery en mi vida'
 
 **Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 85: April 8, 2018
+
+**Today's Progress**: Went through the website, noted down things that needed to be changed. Decided on new font, and surfed through web design page to get inspiration
+
+**Thoughts:** Talked to the owner to get a separate repository with only the website content, thus will be easier to work with (wrapping git around aswell)
+
+**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
