@@ -715,7 +715,7 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 
 **Thoughts:** 'Hulio, no he tocao jquery en mi vida'
 
-**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+**Link to work:** -
 
 ### Day 85: April 8, 2018
 
@@ -723,4 +723,12 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 
 **Thoughts:** Talked to the owner to get a separate repository with only the website content, thus will be easier to work with (wrapping git around aswell)
 
-**Link to work:** [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+**Link to work:** -
+
+### Day 86: April 9, 2018
+
+**Today's Progress**: Set up repo for the project, tried to split it up on the parts I'm going to manipulate. Went through 'web dev interview questions'
+
+**Thoughts:** Still confused, need more time and reorganize the structure in my repo; not sure is the correct one
+
+**Link to work:** - [wp-frontend](https://github.com/ArtanisAce/wp-frontend)
