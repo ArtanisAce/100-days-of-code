@@ -740,3 +740,11 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Thoughts:** Now we can finally start! Probably thinking on some general refactor, maybe adding CSS variables to hold the main colors etc?
 
 **Link to work:** - [wp-frontend](https://github.com/ArtanisAce/wp-frontend)
+
+### Day 87: April 12, 2018
+
+**Today's Progress**: Made some simple animations on the header
+
+**Thoughts:** Need to fix the big area to click around the 'a' elements, then add a border-bottom (maybe)
+
+**Link to work:** - [wp-frontend](https://github.com/ArtanisAce/wp-frontend)
