@@ -748,3 +748,11 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Thoughts:** Need to fix the big area to click around the 'a' elements, then add a border-bottom (maybe)
 
 **Link to work:** - [wp-frontend](https://github.com/ArtanisAce/wp-frontend)
+
+### Day 88: April 12, 2018
+
+**Today's Progress**: Tried some animations with the buttons and a refactor on the navbar. All unsuccesful...
+
+**Thoughts:** Need to get CSS examples of good button effects and adapt it! Investigate more...
+
+**Link to work:** - [wp-frontend](https://github.com/ArtanisAce/wp-frontend)
