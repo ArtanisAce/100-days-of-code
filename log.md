@@ -756,3 +756,11 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Thoughts:** Need to get CSS examples of good button effects and adapt it! Investigate more...
 
 **Link to work:** - [wp-frontend](https://github.com/ArtanisAce/wp-frontend)
+
+### Day 89: April 13, 2018
+
+**Today's Progress**: Made a couple of katas at codewars
+
+**Thoughts:** Friday...
+
+**Link to work:** - www.codewars.com/ArtanisAce
