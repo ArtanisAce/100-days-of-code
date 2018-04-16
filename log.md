@@ -772,3 +772,12 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Thoughts:** Still stucked with the website I have to style... need some direction!
 
 **Link to work:** - www.codewars.com/ArtanisAce
+
+
+### Day 90: April 14, 2018
+
+**Today's Progress**: Kata in codewars, selected and overlooked articles for sharing.
+
+**Thoughts:** This codewars have to stop!
+
+**Link to work:** - www.codewars.com/ArtanisAce
