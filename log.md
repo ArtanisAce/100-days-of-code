@@ -789,3 +789,11 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Thoughts:** This codewars have to stop!.....
 
 **Link to work:** - www.codewars.com/ArtanisAce
+
+### Day 92: April 15, 2018
+
+**Today's Progress**: Finally the restyle project is retaken; tried to style the main buttons, need to change them from inputs to buttons
+
+**Thoughts:** :before and :after doesn't work on inputs!
+
+**Link to work:** - [wp-frontend](https://github.com/ArtanisAce/wp-frontend)
