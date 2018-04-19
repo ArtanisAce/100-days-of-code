@@ -774,7 +774,7 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Link to work:** - www.codewars.com/ArtanisAce
 
 
-### Day 90: April 14, 2018
+### Day 90: April 16, 2018
 
 **Today's Progress**: Kata in codewars, selected and overlooked articles for sharing.
 
@@ -782,7 +782,7 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 
 **Link to work:** - www.codewars.com/ArtanisAce
 
-### Day 91: April 15, 2018
+### Day 91: April 17, 2018
 
 **Today's Progress**: Kata in codewars
 
@@ -790,10 +790,18 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 
 **Link to work:** - www.codewars.com/ArtanisAce
 
-### Day 92: April 15, 2018
+### Day 92: April 18, 2018
 
 **Today's Progress**: Finally the restyle project is retaken; tried to style the main buttons, need to change them from inputs to buttons
 
 **Thoughts:** :before and :after doesn't work on inputs!
 
 **Link to work:** - [wp-frontend](https://github.com/ArtanisAce/wp-frontend)
+
+### Day 93: April 19, 2018
+
+**Today's Progress**: Kata in codewars
+
+**Thoughts:** This codewars have to stop!.....
+
+**Link to work:** - www.codewars.com/ArtanisAce
