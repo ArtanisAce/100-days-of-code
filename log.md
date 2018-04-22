@@ -813,3 +813,12 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Thoughts:** Pity I'm losing motivation at the very end :( need to get more knowledge about how to handle this side project on my own...
 
 **Link to work:** - www.codewars.com/ArtanisAce
+
+
+### Day 95: April 22, 2018
+
+**Today's Progress**: Attempt to change code on project with html editor on the page, not working as expected (again). Kata in codewars
+
+**Thoughts:** Side project is over, I'm back to my old projects. Officially will end '100 days of code' challenge before going to Prague on May 4th
+
+**Link to work:** - www.codewars.com/ArtanisAce
