@@ -805,3 +805,11 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Thoughts:** This codewars have to stop!.....
 
 **Link to work:** - www.codewars.com/ArtanisAce
+
+### Day 94: April 22, 2018
+
+**Today's Progress**: Attempt to change code on project with html editor on the page, not working as expected. Kata in codewars
+
+**Thoughts:** Pity I'm losing motivation at the very end :( need to get more knowledge about how to handle this side project on my own...
+
+**Link to work:** - www.codewars.com/ArtanisAce
