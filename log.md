@@ -822,3 +822,12 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Thoughts:** Side project is over, I'm back to my old projects. Officially will end '100 days of code' challenge before going to Prague on May 4th
 
 **Link to work:** - www.codewars.com/ArtanisAce
+
+
+### Day 96: April 22, 2018
+
+**Today's Progress**: Reviewing articles day
+
+**Thoughts:** Immutable.js... maybe I should give a try in some side project. Maybe TypeScript, also? Too many things around...
+
+**Link to work:** -
