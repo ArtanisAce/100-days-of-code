@@ -815,7 +815,7 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Link to work:** - www.codewars.com/ArtanisAce
 
 
-### Day 95: April 22, 2018
+### Day 95: April 23, 2018
 
 **Today's Progress**: Attempt to change code on project with html editor on the page, not working as expected (again). Kata in codewars
 
@@ -824,10 +824,20 @@ create the layout for Movie in IE in another way than CSS Grid. Watched Jen Simm
 **Link to work:** - www.codewars.com/ArtanisAce
 
 
-### Day 96: April 22, 2018
+### Day 96: April 24, 2018
 
 **Today's Progress**: Reviewing articles day
 
 **Thoughts:** Immutable.js... maybe I should give a try in some side project. Maybe TypeScript, also? Too many things around...
 
 **Link to work:** -
+
+### Day 97: April 25, 2018
+
+**Today's Progress**: Went through some articles on node + express + mongo authentication, and choosing one to follow (finally). Learnt about JWT vs session discussion, installed
+packages needed to follow the tutorial and MongoDB. Verified mongo was working
+
+**Thoughts:** Seems there is not a clear winner on JWT vs session; probably really situational dependant. Will stick with session as that's the method is using on the tutorial, and
+I don't need to worry too much about server scalability
+
+**Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
