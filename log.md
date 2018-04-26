@@ -841,3 +841,11 @@ packages needed to follow the tutorial and MongoDB. Verified mongo was working
 I don't need to worry too much about server scalability
 
 **Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 98: April 26, 2018
+
+**Today's Progress**: Trained on complicated Kata...!
+
+**Thoughts:** This kata (weight for weight) should have something hidden that I'm missing...
+
+**Link to work:** - www.codewars.com/ArtanisAce
