@@ -849,3 +849,11 @@ I don't need to worry too much about server scalability
 **Thoughts:** This kata (weight for weight) should have something hidden that I'm missing...
 
 **Link to work:** - www.codewars.com/ArtanisAce
+
+### Day 99: April 27, 2018
+
+**Today's Progress**: Finished the kata!!
+
+**Thoughts:** Could solve it at the end, but could have been improved if I'd have think a bit more... ended up making the old trick of trimming. Live and learn
+
+**Link to work:** - www.codewars.com/ArtanisAce
