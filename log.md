@@ -474,8 +474,6 @@ and pass only pure state that will get rendered to the components (instead of pa
 
 **Link to work:** -
 
-**Link to work:** -
-
 ### Day 57: March 6, 2018
 
 **Today's Progress**: Kept watching 'Idiomatic Redux', read a bit about selectors
@@ -857,3 +855,11 @@ I don't need to worry too much about server scalability
 **Thoughts:** Could solve it at the end, but could have been improved if I'd have think a bit more... ended up making the old trick of trimming. Live and learn
 
 **Link to work:** - www.codewars.com/ArtanisAce
+
+### Day 100: April 28, 2018
+
+**Today's Progress**: Added mongoose user schema, reviewing mongodb structure
+
+**Thoughts:** Create first a simple sample of user, then think how to add the movies to it
+
+**Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
