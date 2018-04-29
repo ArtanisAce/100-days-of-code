@@ -863,3 +863,11 @@ I don't need to worry too much about server scalability
 **Thoughts:** Create first a simple sample of user, then think how to add the movies to it
 
 **Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 101: April 29, 2018
+
+**Today's Progress**: Style refactor (prettify), added hover effects on nav bar, added new field on user form
+
+**Thoughts:** Hover effects are so neat and make app looks much better!
+
+**Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
