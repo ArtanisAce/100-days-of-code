@@ -871,3 +871,11 @@ I don't need to worry too much about server scalability
 **Thoughts:** Hover effects are so neat and make app looks much better!
 
 **Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 102: April 30, 2018
+
+**Today's Progress**: Finding articles and reading around day
+
+**Thoughts:** Discovered two new html elements: <output> and <progress> !!
+
+**Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
