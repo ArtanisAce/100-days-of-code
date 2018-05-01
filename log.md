@@ -879,3 +879,11 @@ I don't need to worry too much about server scalability
 **Thoughts:** Discovered two new html elements: <output> and <progress> !!
 
 **Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 103: May 1, 2018
+
+**Today's Progress**: Working on the mongoose connection, implemented frontend post request to backend
+
+**Thoughts:** mongodb needs more configuration on my pc, or my connection is not correct throught the app... need more troubleshooting
+
+**Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
