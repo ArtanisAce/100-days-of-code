@@ -880,10 +880,18 @@ I don't need to worry too much about server scalability
 
 **Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
 
-### Day 103: May 1, 2018
+### Day 103: May 2, 2018
 
 **Today's Progress**: Working on the mongoose connection, implemented frontend post request to backend
 
 **Thoughts:** mongodb needs more configuration on my pc, or my connection is not correct throught the app... need more troubleshooting
+
+**Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 104: May 3, 2018
+
+**Today's Progress**: Mongoose connection is succesful, created ml-app db, verify user was created, handling user creation success / error on the frontend
+
+**Thoughts:** use setError to set a custom error when there's some issue on the user creation
 
 **Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
