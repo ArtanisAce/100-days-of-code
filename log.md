@@ -895,3 +895,13 @@ I don't need to worry too much about server scalability
 **Thoughts:** use setError to set a custom error when there's some issue on the user creation
 
 **Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+### Day 105: May 4, 2018  ------> Last day of challenge
+
+**Today's Progress**: Added hash to password before saving to db through 'bcrypt', not working, need more troubleshooting. Learned about the 'next()' call in nodejs
+
+**Thoughts:** Still some work through the backend, encountered more problems than expected, as always! Last day of the challenge. Will keep working on this but from time to time.
+
+**Link to work:** - [Movie-Lists App](https://github.com/ArtanisAce/movie-lists), [Movie-Lists Backend] (https://github.com/ArtanisAce/ml-backend)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
